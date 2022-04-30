@@ -22,9 +22,9 @@ jobs:
 
       - name: Configuration environment
         env:
-          HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
-          GIT_USER: ${{secrets.GIT_USER}}
-          GIT_EMAIL: ${{secrets.GIT_EMAIL}}
+          HEXO_DEPLOY_PRI: ${{ secrets.HEXO_DEPLOY_PRI }}
+          GIT_USER: ${{ secrets.WONAME }}
+          GIT_EMAIL: ${{ secrets.WOEMAIL }}
         run: |
           echo "$Greeting $GIT_USER. Today is $GIT_EMAIL"
           mkdir -p ~/.ssh/
@@ -38,7 +38,7 @@ jobs:
         run: |
           npm i -g hexo-cli
           npm i
-          
+
       - name: Deploy hexo
         run: |
           hexo g -d
