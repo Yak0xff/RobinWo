@@ -106,6 +106,7 @@ navbar:
     # Navigation menu items
     menu:
         首页: /
+        Log: /categories/每日随想/
         归档: /archives
         分类: /categories
         标签: /tags
