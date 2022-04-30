@@ -225,11 +225,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Robin's Den
+        author: Robin's Wo
         # Author title
         author_title: Robin
         # Author's current location
-        location: 陕西·西安
+        location: 中国·西安
         # URL or path to the avatar image
         avatar: /img/avatar.jpg
         # Whether show the rounded avatar image

@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Robin's Den 
+title: Robin's Wo 
 subtitle: '想法、故事、小思考'
 description: 'Robin，80后，主业iOS开发，移动开发者，热爱技术，学习中。很高兴能够在这里与你分享对技术对生活的思考与记录。'
 keywords:
@@ -104,4 +104,5 @@ theme: icarus
 deploy:
   type: 'git'
   repo: 'git@github.com:zycslog/zycslog.github.io.git'
+  branch: 'main'
   message: 'deploy'
