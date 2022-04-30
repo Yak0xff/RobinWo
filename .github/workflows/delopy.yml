@@ -21,11 +21,12 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
       - name: Configuration environment
-        environment:
+        env:
           HEXO_DEPLOY_PRI: ${{secrets.HEXO_DEPLOY_PRI}}
           GIT_USER: ${{secrets.GIT_USER}}
           GIT_EMAIL: ${{secrets.GIT_EMAIL}}
         run: |
+          echo "$Greeting $GIT_USER. Today is $GIT_EMAIL"
           mkdir -p ~/.ssh/
           echo "$HEXO_DEPLOY_PRI" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
