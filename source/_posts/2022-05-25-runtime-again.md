@@ -41,6 +41,9 @@ struct objc_class {
 
 接下来就介绍一下 category 的工作原理，在美团的技术博客 [深入理解Objective-C：Category](http://tech.meituan.com/DiveIntoCategory.html) 中已经有了非常详细的解释，然而可能由于时间问题，其中的不少内容已经过时，我根据目前最新的版本(objc-680) 做一些简单的分析，为了便于阅读，在不影响代码逻辑的前提下有可能删除部分无关紧要的内容。
 
+
+<!-- more -->
+
 ### 概述
 
 首先 runtime 依赖于 dyld 动态加载，在 objc-os.mm 文件中可以找到入口，它的调用栈简单整理如下:
