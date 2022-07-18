@@ -106,11 +106,11 @@ navbar:
     # Navigation menu items
     menu:
         首页: /
-        Log: /categories/每日随想/
+        Log: /categories/Logs/
         归档: /archives
         分类: /categories
         标签: /tags
-        关于我: /about
+        关于: /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
