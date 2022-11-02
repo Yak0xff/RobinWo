@@ -107,6 +107,7 @@ navbar:
     menu:
         首页: /
         Log: /categories/Logs/
+        软件工程之道: /categories/Google软件工程之道/
         归档: /archives
         分类: /categories
         标签: /tags
