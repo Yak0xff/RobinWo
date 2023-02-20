@@ -1,8 +1,10 @@
 ---
+layout: post
+author: Robin
 title: 《大道至简---软件工程实践者的思想》  读书笔记
-date: 2022-10-29 11:08:49
 tags: 读书笔记
-categories: 技术人生
+categories: 
+- 技术人生
 ---
 
 # 内容提要
