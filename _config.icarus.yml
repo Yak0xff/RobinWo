@@ -117,17 +117,17 @@ widgets:
             RSS:
                 icon: fas fa-rss
                 url: /atom.xml
-    -
-        position: left
-        type: adsense
-        client_id: ca-pub-6076347298102292
-        slot_id: 3334570730
-    -
-        position: left
-        type: categories
-    -
-        position: left
-        type: archives
+    # -
+    #     position: left
+    #     type: adsense
+    #     client_id: ca-pub-6076347298102292
+    #     slot_id: 3334570730
+    # -
+    #     position: left
+    #     type: categories
+    # -
+    #     position: left
+    #     type: archives
     -
         position: left
         type: links
