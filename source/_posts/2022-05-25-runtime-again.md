@@ -5,7 +5,7 @@ title: 再议Objective-C 2.0 中的 Runtime
 tags: 开发知识
 categories:
 - 开发知识
-cover: /images/cover/2022-05-25-runtime-again.jpg
+header_image: /images/cover/2022-05-25-runtime-again.jpg
 ---
 
 绝大多数 iOS 开发者在学习 runtime 时都阅读过 runtime.h 文件中的这段代码:
