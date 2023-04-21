@@ -5,7 +5,7 @@ title: \#17\ 排序算法O(n^2)
 tags: Swift中的数据结构与算法
 categories:
 - Data Structures & Algorithms in Swift
-cover: '/images/Data-Structures-&-Algorithms-in-Swift/17/cover.jpg'
+header_image: '/images/Data-Structures-&-Algorithms-in-Swift/17/cover.jpg'
 ---
 
 **O(n^2)**的时间复杂度并不是一个最佳的性能表现，但是在某些情况下，该类别的排序算法非常有用，此类算法的空间复杂度表现良好，仅仅需要O(1)的恒定的额外内存空间，对于小型数据集来说，此类排序算法比更为复杂的排序算法更为有利。

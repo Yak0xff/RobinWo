@@ -5,7 +5,7 @@ title: \#20\ 堆排序（Heap Sort）
 tags: Swift中的数据结构与算法
 categories:
 - Data Structures & Algorithms in Swift
-cover: '/images/Data-Structures-&-Algorithms-in-Swift/20/cover.jpg'
+header_image: '/images/Data-Structures-&-Algorithms-in-Swift/20/cover.jpg'
 ---
 
 **堆排序[Heap Sort]**是另一种基于比较的排序算法，其利用堆对数组进行升序排序。关于堆数据结构，可以查看[\\#15\ 堆数据结构（The Heap Data Structure）](https://robinchao.github.io/Data-Structures-&-Algorithms-in-Swift-15/)中的介绍。

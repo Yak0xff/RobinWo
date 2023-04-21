@@ -5,7 +5,7 @@ title: \#14\ 二分查找（Binary Search）
 tags: Swift中的数据结构与算法
 categories:
 - Data Structures & Algorithms in Swift
-cover: '/images/Data-Structures-&-Algorithms-in-Swift/14/cover.jpg'
+header_image: '/images/Data-Structures-&-Algorithms-in-Swift/14/cover.jpg'
 ---
 
 二分查找是时间复杂度为O(log n)的搜索算法中较为高效的算法之一，这一点和在平衡的二叉搜索树中搜索元素的时间复杂度相当。在使用二分查找之前，有两个条件需要预先满足：

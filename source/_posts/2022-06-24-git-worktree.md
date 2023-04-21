@@ -5,7 +5,7 @@ title: 或许是频繁切换git分支的救星--git worktree
 tags: 开发知识
 categories:
 - 开发知识
-cover: /images/cover/2022-06-24-git-worktree.jpg
+header_image: /images/cover/2022-06-24-git-worktree.jpg
 ---
 
 在实际的开发过程中，你是否也需要经常来回切换分支，如果是，那么这篇文章介绍的方法或者正合适你。

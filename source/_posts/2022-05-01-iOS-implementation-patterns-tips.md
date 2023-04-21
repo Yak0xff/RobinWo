@@ -5,7 +5,7 @@ title: 《实现模式》读书小记
 tags: 读书小记
 categories:
 - 读书小记
-cover: /images/cover/2022-05-01-iOS-implementation-patterns-tips.jpg
+header_image: /images/cover/2022-05-01-iOS-implementation-patterns-tips.jpg
 ---
 
 《实现模式》一书作者Kent Beck，软件开发方法学的泰山北斗，是最早研究软件开发模式和重构方法论的先导者之一，是敏捷开发的开创者之一，更是极限编程和测试驱动开发的创始人。该书是一本关于如何撰写代码的书。本书中的模式，是基于 Kent 对现存代码的阅读以及他自己的编程习惯而形成的。这些模式来自他早年使用 Smalltalk 模式通过代码与其他开发人员进行沟通的过程。它们的级别相对设计模式较低，与 Larman 提出的 GRASP 模式处于同一粒度。本书中的模式试图为如何撰写大家都能看得懂的代码提供一个清晰明确的视角，并告诉你这些代码如何为人的需要和降低成本的需求提供保障。

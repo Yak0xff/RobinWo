@@ -5,7 +5,7 @@ title: \#16\ 优先级队列
 tags: Swift中的数据结构与算法
 categories:
 - Data Structures & Algorithms in Swift
-cover: '/images/Data-Structures-&-Algorithms-in-Swift/16/cover.png'
+header_image: '/images/Data-Structures-&-Algorithms-in-Swift/16/cover.png'
 ---
 
 队列是一种先进先出（FIFO）的数据结构，而优先级队列是另一种队列结构，其可替代队列的先进先出顺序，该队列中的元素有着优先级的顺序。一个优先级队列也可以是：

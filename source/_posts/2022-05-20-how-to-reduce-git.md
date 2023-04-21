@@ -5,7 +5,7 @@ title: 如何进行 Git 仓库瘦身
 tags: 开发知识
 categories:
 - 开发知识
-cover: /images/cover/2022-06-01-how-to-reduce-git.jpg
+header_image: /images/cover/2022-06-01-how-to-reduce-git.jpg
 ---
 
 对 Git 仓库的维护通常是为了减少仓库的大小。如果你从另外一个版本控制系统导入了一个仓库，你可能需要在导入后清除掉不必要的文件。本文着重于从一个 Git 仓库中删除大文件，并且包含下列主题：

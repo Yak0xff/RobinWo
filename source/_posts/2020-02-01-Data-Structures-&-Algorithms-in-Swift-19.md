@@ -5,7 +5,7 @@ title: \#19\ 基数排序（Radix Sort）
 tags: Swift中的数据结构与算法
 categories:
 - Data Structures & Algorithms in Swift
-cover: '/images/Data-Structures-&-Algorithms-in-Swift/19/cover.jpg'
+header_image: '/images/Data-Structures-&-Algorithms-in-Swift/19/cover.jpg'
 ---
 
 **基数排序[Radix Sort]**是一种在线性时间内对整数进行排序的非比较算法。

@@ -5,7 +5,7 @@ title: \#18\ 归并排序（Merge Sort）
 tags: Swift中的数据结构与算法
 categories:
 - Data Structures & Algorithms in Swift
-cover: '/images/Data-Structures-&-Algorithms-in-Swift/18/cover.jpg'
+header_image: '/images/Data-Structures-&-Algorithms-in-Swift/18/cover.jpg'
 ---
 
 **归并排序[Merge Sort]**是最有效的排序算法之一，它的时间复杂度为O(n log n)，是所有通用排序算法中速度最快的一种。归并排序背后的思想是**分而治之**，即将一个大问题分解成多个更小、更易于解决的问题，然后将各个小问题的结果合并为最终结果。**归并排序的终极秘诀是先拆分后合并。**
